@@ -1,0 +1,23 @@
+[Unit]
+Description=T-Deck Pocket Terminal companion
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=tdeck
+Group=tdeck
+WorkingDirectory=/var/lib/tdeck-companion
+StateDirectory=tdeck-companion
+Environment=TDECK_COMPANION_CONFIG=/etc/tdeck-companion/config.yaml
+ExecStart=/opt/tdeck-companion/venv/bin/tdeck-companion
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/tdeck-companion
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,24 @@
+token: "REPLACE-WITH-A-RANDOM-32-PLUS-CHAR-TOKEN"
+bind_host: "0.0.0.0"
+bind_port: 8787
+simulation: false
+# tls_cert: /etc/tdeck-companion/server.crt
+# tls_key: /etc/tdeck-companion/server.key
+state_db: /var/lib/tdeck-companion/state.sqlite3
+raw_shell_enabled: false
+# Mesh requires a SECOND Meshtastic node attached to the Pi (not the handheld).
+# mesh_serial: /dev/serial/by-id/YOUR-GATEWAY-NODE
+# mesh_key: REPLACE-WITH-A-SEPARATE-RANDOM-32-PLUS-CHAR-KEY
+# mesh_allowed_nodes: [0x12345678] # Set to your verified handheld node number.
+hosts:
+  - id: pi
+    name: Raspberry Pi
+    hostname: tdeckpi.local
+    terminal_target: null
+    ai_url: http://127.0.0.1:11434
+    ai_model: qwen3:1.7b
+    vnc_host: 127.0.0.1
+    vnc_port: 5900
+command_allowlist:
+  uptime: [/usr/bin/uptime]
+  hostname: [/usr/bin/hostname]

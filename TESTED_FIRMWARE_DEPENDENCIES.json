@@ -1,0 +1,1565 @@
+[
+
+  {
+
+    "name": "Adafruit AHTX0",
+
+    "version": "2.0.5",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 7142,
+
+      "name": "Adafruit AHTX0",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit BME280 Library",
+
+    "version": "2.3.0",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 166,
+
+      "name": "Adafruit BME280 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit BMP085 Library",
+
+    "version": "1.2.4",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 525,
+
+      "name": "Adafruit BMP085 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit BMP280 Library",
+
+    "version": "2.6.8",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 528,
+
+      "name": "Adafruit BMP280 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit BMP3XX Library",
+
+    "version": "2.1.6",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 5786,
+
+      "name": "Adafruit BMP3XX Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit BusIO",
+
+    "version": "1.17.4",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 6214,
+
+      "name": "Adafruit BusIO",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit DPS310",
+
+    "version": "1.1.5",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 5243,
+
+      "name": "Adafruit DPS310",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit GFX Library",
+
+    "version": "1.12.6",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 13,
+
+      "name": "Adafruit GFX Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit INA219",
+
+    "version": "1.2.3",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 160,
+
+      "name": "Adafruit INA219",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit INA260 Library",
+
+    "version": "1.5.3",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 6239,
+
+      "name": "Adafruit INA260 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit LIS3DH",
+
+    "version": "1.3.0",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 673,
+
+      "name": "Adafruit LIS3DH",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit LPS2X",
+
+    "version": "2.0.6",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 7084,
+
+      "name": "Adafruit LPS2X",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit LSM6DS",
+
+    "version": "4.7.4",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 6897,
+
+      "name": "Adafruit LSM6DS",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit LTR390 Library",
+
+    "version": "1.1.2",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 11535,
+
+      "name": "Adafruit LTR390 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit MAX1704X",
+
+    "version": "1.0.3",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 14357,
+
+      "name": "Adafruit MAX1704X",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit MCP9808 Library",
+
+    "version": "2.0.2",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 820,
+
+      "name": "Adafruit MCP9808 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit MLX90614 Library",
+
+    "version": "2.1.5",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 782,
+
+      "name": "Adafruit MLX90614 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit MPU6050",
+
+    "version": "2.2.6",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 6782,
+
+      "name": "Adafruit MPU6050",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit NeoPixel",
+
+    "version": "1.15.5",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 28,
+
+      "name": "Adafruit NeoPixel",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit PCT2075",
+
+    "version": "1.0.6",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 6688,
+
+      "name": "Adafruit PCT2075",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit PM25 AQI Sensor",
+
+    "version": "2.0.0",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 7380,
+
+      "name": "Adafruit PM25 AQI Sensor",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit SH110X",
+
+    "version": "2.1.15",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 7444,
+
+      "name": "Adafruit SH110X",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit SHT31 Library",
+
+    "version": "2.2.2",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 479,
+
+      "name": "Adafruit SHT31 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit SHT4x Library",
+
+    "version": "1.0.5",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 11710,
+
+      "name": "Adafruit SHT4x Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit SHTC3 Library",
+
+    "version": "1.0.2",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 7407,
+
+      "name": "Adafruit SHTC3 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit SSD1306",
+
+    "version": "2.5.17",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 135,
+
+      "name": "Adafruit SSD1306",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit TSL2561",
+
+    "version": "1.1.2",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 34,
+
+      "name": "Adafruit TSL2561",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit TSL2591 Library",
+
+    "version": "1.4.5",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 463,
+
+      "name": "Adafruit TSL2591 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit Unified Sensor",
+
+    "version": "1.1.15",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 31,
+
+      "name": "Adafruit Unified Sensor",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Adafruit VEML7700 Library",
+
+    "version": "2.1.6",
+
+    "spec": {
+
+      "owner": "adafruit",
+
+      "id": 6219,
+
+      "name": "Adafruit VEML7700 Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "ArduinoThread",
+
+    "version": "0.0.0+20260906183111",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "ArduinoThread",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/ArduinoThread/archive/b841b0415721f1341ea41cccfb4adccfaf951567.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "ArduinoThread",
+
+    "version": "0.0.0+20260906183026",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "ArduinoThread",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/ArduinoThread/archive/7c3ee9e1951551b949763b1f5280f8db1fa4068d.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "BME68x Sensor library",
+
+    "version": "1.3.40408",
+
+    "spec": {
+
+      "owner": "boschsensortec",
+
+      "id": 14368,
+
+      "name": "BME68x Sensor library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "ClosedCube OPT3001",
+
+    "version": "1.1.2",
+
+    "spec": {
+
+      "owner": "closedcube",
+
+      "id": 838,
+
+      "name": "ClosedCube OPT3001",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Crypto",
+
+    "version": "0.4.0",
+
+    "spec": {
+
+      "owner": "rweather",
+
+      "id": 1168,
+
+      "name": "Crypto",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "DFRobot_BMM150",
+
+    "version": "1.0.0",
+
+    "spec": {
+
+      "owner": "dfrobot",
+
+      "id": 13415,
+
+      "name": "DFRobot_BMM150",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "DFRobot_LarkWeatherStation",
+
+    "version": "1.0.0",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "DFRobot_LarkWeatherStation",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/DFRobot_LarkWeatherStation/archive/4de3a9cadef0f6a5220a8a906cf9775b02b0040d.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "DFRobot_RTU",
+
+    "version": "1.0.6",
+
+    "spec": {
+
+      "owner": "dfrobot",
+
+      "id": 12831,
+
+      "name": "DFRobot_RTU",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "DFRobot_RainfallSensor",
+
+    "version": "1.0.0",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "DFRobot_RainfallSensor",
+
+      "requirements": null,
+
+      "uri": "https://github.com/DFRobot/DFRobot_RainfallSensor/archive/38fea5e02b40a5430be6dab39a99a6f6347d667e.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "ESP32 Codec2",
+
+    "version": "1.0.1",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "ESP32_Codec2",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/ESP32_Codec2/archive/633326c78ac251c059ab3a8c430fcdf25b41672f.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "ESP8266 and ESP32 OLED driver for SSD1306 displays",
+
+    "version": "4.4.1",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "esp8266-oled-ssd1306",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/esp8266-oled-ssd1306/archive/0cbc26b1f8f61957af0475f486b362eafe7cc4e2.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "ESP8266Audio",
+
+    "version": "1.9.9",
+
+    "spec": {
+
+      "owner": "earlephilhower",
+
+      "id": 1964,
+
+      "name": "ESP8266Audio",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "ESP8266SAM",
+
+    "version": "1.1.0",
+
+    "spec": {
+
+      "owner": "earlephilhower",
+
+      "id": 2885,
+
+      "name": "ESP8266SAM",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "EmotiBit MLX90632",
+
+    "version": "1.0.8",
+
+    "spec": {
+
+      "owner": "emotibit",
+
+      "id": 5653,
+
+      "name": "EmotiBit MLX90632",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "ErriezCRC32",
+
+    "version": "1.0.1",
+
+    "spec": {
+
+      "owner": "erriez",
+
+      "id": 5755,
+
+      "name": "ErriezCRC32",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "INA226",
+
+    "version": "0.6.4",
+
+    "spec": {
+
+      "owner": "robtillaart",
+
+      "id": 12232,
+
+      "name": "INA226",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "LovyanGFX",
+
+    "version": "1.2.28",
+
+    "spec": {
+
+      "owner": "lovyan03",
+
+      "id": 7359,
+
+      "name": "LovyanGFX",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "NTPClient",
+
+    "version": "3.2.1",
+
+    "spec": {
+
+      "owner": "arduino-libraries",
+
+      "id": 551,
+
+      "name": "NTPClient",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Nanopb",
+
+    "version": "0.4.91",
+
+    "spec": {
+
+      "owner": "nanopb",
+
+      "id": 431,
+
+      "name": "Nanopb",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "NimBLE-Arduino",
+
+    "version": "1.4.3",
+
+    "spec": {
+
+      "owner": "h2zero",
+
+      "id": 11070,
+
+      "name": "NimBLE-Arduino",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "NonBlockingRTTTL",
+
+    "version": "1.3.0",
+
+    "spec": {
+
+      "owner": "end2endzone",
+
+      "id": 5480,
+
+      "name": "NonBlockingRTTTL",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "OneButton",
+
+    "version": "2.6.1",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "OneButton",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/OneButton/archive/fa352d668c53f290cfa480a5f79ad422cd828c70.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "QMC5883LCompass",
+
+    "version": "1.2.3",
+
+    "spec": {
+
+      "owner": "mprograms",
+
+      "id": 6678,
+
+      "name": "QMC5883LCompass",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "RadioLib",
+
+    "version": "7.3.0",
+
+    "spec": {
+
+      "owner": "jgromes",
+
+      "id": 5795,
+
+      "name": "RadioLib",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "SdFat",
+
+    "version": "2.3.0",
+
+    "spec": {
+
+      "owner": "greiman",
+
+      "id": null,
+
+      "name": "SdFat",
+
+      "requirements": null,
+
+      "uri": "https://github.com/mverch67/SdFat/archive/152a52251fc5e1d581303b42378ea712ab229246.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "Sensirion Core",
+
+    "version": "0.7.1",
+
+    "spec": {
+
+      "owner": "sensirion",
+
+      "id": 11744,
+
+      "name": "Sensirion Core",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Sensirion I2C SCD4x",
+
+    "version": "1.1.0",
+
+    "spec": {
+
+      "owner": "sensirion",
+
+      "id": 11777,
+
+      "name": "Sensirion I2C SCD4x",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "SparkFun 9DoF IMU Breakout - ICM 20948 - Arduino Library",
+
+    "version": "1.3.2",
+
+    "spec": {
+
+      "owner": "sparkfun",
+
+      "id": 6352,
+
+      "name": "SparkFun 9DoF IMU Breakout - ICM 20948 - Arduino Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "SparkFun MAX3010x Pulse and Proximity Sensor Library",
+
+    "version": "1.1.2",
+
+    "spec": {
+
+      "owner": "sparkfun",
+
+      "id": 1288,
+
+      "name": "SparkFun MAX3010x Pulse and Proximity Sensor Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "SparkFun Qwiic Scale NAU7802 Arduino Library",
+
+    "version": "1.0.6",
+
+    "spec": {
+
+      "owner": "sparkfun",
+
+      "id": 6318,
+
+      "name": "SparkFun Qwiic Scale NAU7802 Arduino Library",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "Syslog",
+
+    "version": "2.0.0",
+
+    "spec": {
+
+      "owner": "arcao",
+
+      "id": 1506,
+
+      "name": "Syslog",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "TBPubSubClient",
+
+    "version": "2.12.1",
+
+    "spec": {
+
+      "owner": "thingsboard",
+
+      "id": 15144,
+
+      "name": "TBPubSubClient",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "TinyGPSPlus",
+
+    "version": "1.0.3",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "TinyGPSPlus",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/TinyGPSPlus/archive/71a82db35f3b973440044c476d4bcdc673b104f4.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "XPowersLib",
+
+    "version": "0.3.1",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "XPowersLib",
+
+      "requirements": null,
+
+      "uri": "https://github.com/lewisxhe/XPowersLib/archive/v0.3.1.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "arduino-fsm",
+
+    "version": "2.2.0",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "arduino-fsm",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/arduino-fsm/archive/7db3702bf0cfe97b783d6c72595e3f38e0b19159.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "bb_captouch",
+
+    "version": "1.3.1",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "bb_captouch",
+
+      "requirements": null,
+
+      "uri": "https://github.com/bitbank2/bb_captouch/archive/refs/tags/1.3.1.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "bsec2",
+
+    "version": "1.10.2610",
+
+    "spec": {
+
+      "owner": "boschsensortec",
+
+      "id": 14905,
+
+      "name": "bsec2",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "esp32_https_server",
+
+    "version": "1.0.0",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "esp32_https_server",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/esp32_https_server/archive/3223704846752e6d545139204837bdb2a55459ca.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "libpax",
+
+    "version": "1.1.0",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "libpax",
+
+      "requirements": null,
+
+      "uri": "https://github.com/dbinfrago/libpax/archive/3cdc0371c375676a97967547f4065607d4c53fd1.zip"
+
+    }
+
+  },
+
+  {
+
+    "name": "lvgl",
+
+    "version": "9.3.0",
+
+    "spec": {
+
+      "owner": "lvgl",
+
+      "id": 6598,
+
+      "name": "lvgl",
+
+      "requirements": null,
+
+      "uri": null
+
+    }
+
+  },
+
+  {
+
+    "name": "meshtastic-device-ui",
+
+    "version": "1.0.0",
+
+    "spec": {
+
+      "owner": null,
+
+      "id": null,
+
+      "name": "device-ui",
+
+      "requirements": null,
+
+      "uri": "https://github.com/meshtastic/device-ui/archive/28167c67dfd13015a0b5eef1828f95fe8e3ab7c3.zip"
+
+    }
+
+  }
+
+]
